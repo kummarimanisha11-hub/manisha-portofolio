@@ -1,18 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Manisha Portfolio</title>
-
-  <style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manisha Portfolio</title>  <style>
     * { margin:0; padding:0; box-sizing:border-box; }
-    body { font-family: Arial, sans-serif; }
+    body { font-family: Arial; scroll-behavior:smooth; }
 
     header {
-      background:#333;
-      color:#fff;
-      padding:15px;
+      background: linear-gradient(90deg,#4facfe,#00f2fe);
+      color:white;
+      padding:20px;
       text-align:center;
     }
 
@@ -24,42 +21,50 @@
     }
 
     section {
-      padding:40px;
+      padding:50px;
       text-align:center;
     }
 
-    #home { background:#f4f4f4; }
-    #skills, #projects { background:#e2e2e2; }
+    #home {
+      background:#f4f4f4;
+    }
+
+    img {
+      width:120px;
+      border-radius:50%;
+      margin:10px 0;
+    }
 
     .card {
       background:white;
       padding:20px;
-      margin:10px;
+      margin:15px;
       display:inline-block;
-      border-radius:10px;
-      box-shadow:0 0 10px gray;
+      border-radius:15px;
+      box-shadow:0 5px 15px rgba(0,0,0,0.2);
+      transition:0.3s;
+    }
+
+    .card:hover {
+      transform:scale(1.05);
     }
 
     footer {
-      background:#333;
+      background:#222;
       color:white;
-      padding:10px;
-      text-align:center;
+      padding:15px;
     }
 
     button {
-      padding:10px;
-      background:#333;
+      padding:10px 20px;
+      background:#4facfe;
       color:white;
       border:none;
       border-radius:5px;
+      cursor:pointer;
     }
-  </style>
-</head>
 
-<body>
-
-<header>
+  </style></head><body><header>
   <h1>Manisha Portfolio</h1>
   <nav>
     <a href="#home">Home</a>
@@ -68,46 +73,31 @@
     <a href="#projects">Projects</a>
     <a href="#contact">Contact</a>
   </nav>
-</header>
-
-<section id="home">
+</header><section id="home">
+  <img src="https://via.placeholder.com/120" alt="profile">
   <h2>Hello 👋</h2>
   <p>I am Manisha, learning SQL, Python, HTML</p>
-</section>
-
-<section id="about">
+</section><section id="about">
   <h2>About Me</h2>
-  <p>I am a student learning web development.</p>
-</section>
-
-<section id="skills">
+  <p>I am a passionate student interested in software and web development.</p>
+</section><section id="skills">
   <h2>Skills</h2>
   <div class="card">SQL</div>
   <div class="card">Python</div>
   <div class="card">HTML</div>
-</section>
-
-<section id="projects">
+</section><section id="projects">
   <h2>Projects</h2>
-  <div class="card">Employee Database</div>
+  <div class="card">Employee Database System</div>
   <div class="card">Portfolio Website</div>
-</section>
-
-<section id="contact">
+</section><section id="contact">
   <h2>Contact</h2>
   <p>Email: kummarimanisha11@gmail.com</p>
-  <button onclick="showMessage()">Click Me</button>
-</section>
-
-<footer>
-  <p>@ Manisha kummari</p>
-</footer>
-
-<script>
-function showMessage() {
-  alert("Thanks for visiting!");
+  <button onclick="downloadResume()">Download Resume</button>
+</section><footer>
+  <p>© 2026 Manisha</p>
+</footer><script>
+function downloadResume() {
+  alert("Add your resume link here");
 }
-</script>
-
-</body>
+</script></body>
 </html>
