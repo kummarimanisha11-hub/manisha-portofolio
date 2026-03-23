@@ -1,25 +1,61 @@
 # manisha-portofolio
-my personal portofolio website
-# Password Generator 🔐
+<h1 align="center">🌐 Indra Bingi - Portfolio</h1>
 
-## 📌 Description
-This project generates strong and secure passwords using Python.
+<p align="center">
+  🚀 Python Developer | Fresher <br>
+  Passionate about Automation & Software Development
+</p>
 
-## 🚀 Features
-- Custom password length
-- Uses letters, numbers, and symbols
-- Random and secure passwords
+---
 
-## 🛠️ Technologies Used
-- Python
-- random module
-- string module
+## 👨‍💻 About Me
+Hi, I am **Indra Bingi**, a passionate Python fresher with hands-on experience in building automation tools and problem-solving projects.  
+I am eager to learn new technologies and work on real-world applications.
 
-## ▶️ How to Run
-1. Download the file
-2. Open terminal
-3. Run:
-   python password_generator.py
+---
 
-## 📷 Example Output
-Generated Password: A@k9#Lp2
+## 🛠️ Tech Stack
+<p>
+  ✔ Python <br>
+  ✔ HTML <br>
+  ✔ CSS <br>
+  ✔ Git & GitHub
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔐 Password Generator
+- Generates strong and secure passwords  
+- Uses random and string modules  
+
+### 📁 File Automation Tool
+- Automatically organizes files into folders  
+- Saves time and reduces manual work  
+
+### 🔍 File Search Tool
+- Searches files quickly in system  
+- Works with all file types  
+
+---
+
+## 🌐 Live Portfolio
+👉 **[Click Here to View My Portfolio](https://bingiindra48-maker.github.io/portfolio)**
+
+---
+
+## 📌 Features
+✨ Clean UI  
+✨ Easy navigation  
+✨ Project showcase  
+✨ GitHub integration  
+
+---
+
+## 📞 Contact Me:9390969354
+📧 Email:biniindra48@gamil.com
+
+---
+
+<p align="center">🔥 Thank you for visiting my portfolio 🔥</p>
