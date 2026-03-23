@@ -1,5 +1,5 @@
 # manisha-portofolio
-<h1 align="center">🌐 Indra Bingi - Portfolio</h1>
+<h1 align="center">🌐 Manisha Kummari Portfolio</h1>
 
 <p align="center">
   🚀 Python Developer | Fresher <br>
@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hi, I am **Indra Bingi**, a passionate Python fresher with hands-on experience in building automation tools and problem-solving projects.  
+Hi, I am **Manisha Kummari**, a passionate Python fresher with hands-on experience in building automation tools and problem-solving projects.  
 I am eager to learn new technologies and work on real-world applications.
 
 ---
@@ -41,7 +41,7 @@ I am eager to learn new technologies and work on real-world applications.
 ---
 
 ## 🌐 Live Portfolio
-👉 **[Click Here to View My Portfolio](https://bingiindra48-maker.github.io/portfolio)**
+👉 **[Click Here to View My Portfolio](https://kummarimanisha11.github.io/portfolio)**
 
 ---
 
@@ -53,8 +53,8 @@ I am eager to learn new technologies and work on real-world applications.
 
 ---
 
-## 📞 Contact Me:9390969354
-📧 Email:biniindra48@gamil.com
+## 📞 Contact Me:6281849862
+📧 Email:kummarimanisha11@gamil.com
 
 ---
 
